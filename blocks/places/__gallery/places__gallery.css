@@ -1,3 +1,12 @@
 .places__gallery {
-    padding: 0;
+    padding-top: 0;
 }
+@media (max-width: 1027px) {
+  .places__gallery {
+    padding:0;
+  }
+
+@media (max-width: 767px) {
+    .places__gallery {
+      padding:0;
+    }
