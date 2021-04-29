@@ -1,0 +1,18 @@
+.place__website {
+    min-width: 240px;
+    grid-area: url;
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: start;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    align-content: end;
+  }
+
+  @media screen and (max-width: 767px){
+    .place__website {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+  }
