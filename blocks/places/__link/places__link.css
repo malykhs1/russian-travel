@@ -6,3 +6,7 @@
     line-height: 22px;
     color:#FFFFFF;
   }
+
+  .places__link:hover:nth-of-type(3) {
+  opacity: 0.8;
+  }
