@@ -5,8 +5,13 @@
   .places__gallery {
     padding:0;
   }
+}
 
 @media (max-width: 767px) {
     .places__gallery {
       padding:0;
     }
+  }
+
+
+    
