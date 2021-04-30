@@ -23,6 +23,6 @@
     .lead__title {
       font-size: 40px;
       line-height: 44px;
-      max-width: calc(100% - 18px*2)
+      max-width: calc(100% - 18px*2);
     }
   }
