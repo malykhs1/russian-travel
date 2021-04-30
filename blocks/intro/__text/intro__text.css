@@ -3,12 +3,23 @@
     line-height: 26px;
     font-weight: 400;
     font-style: normal;
-    max-width: 60%;
+    max-width: calc(100% - 442px);
 }
 
-
-@media screen and (max-width: 1023px) {
-    .intro__text{
+@media screen and (max-width: 1279px){
+    .intro__text {
+      max-width: calc(100% - 286px);
+    }
+  }
+  
+  @media screen and (max-width: 1023px){
+    .intro__text {
+      max-width: 100%;
+    }
+  }
+  
+  @media screen and (max-width: 767px){
+      .intro__text {
         max-width: 100%;
-    }   
-}
+      }
+    }

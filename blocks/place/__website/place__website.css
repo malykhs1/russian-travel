@@ -1,4 +1,4 @@
-.places__website {
+.place__website {
     min-width: 240px;
     grid-area: url;
     font-size: 18px;
@@ -11,8 +11,7 @@
   }
  
   @media screen and (max-width: 767px){
-    .places__website {
-    margin-left: 16px;
-    margin-right: 16px;
-}
+    .place__website {
+      margin-left: 16px;
+      margin-right: 16px;}
   }

@@ -1,4 +1,5 @@
-.places__link_hover {
+  .place__link {
+    width: 100%;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -6,6 +7,6 @@
     color:#FFFFFF;
   }
 
-  .places__link_hover:hover {
-    opacity: 0.8;
+  .place__link:hover:nth-of-type(3) {
+  opacity: 0.8;
   }
