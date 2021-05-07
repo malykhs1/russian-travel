@@ -7,6 +7,6 @@
     color:#FFFFFF;
   }
 
-  .place__link:hover:nth-of-type(3) {
+  .place__link:hover{
   opacity: 0.8;
   }

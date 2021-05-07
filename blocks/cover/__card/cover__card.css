@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 180px 40px;
+    padding: 237px 40px;
     max-width: 100%;
     position: relative;
     z-index: 0;
@@ -12,6 +12,12 @@
     min-height: 200px;
     }
 
+    @media (max-width: 1179px) {
+      .cover__card {
+        padding: 187px 40px;
+      }
+    }
+    
     @media (max-width: 1023px) {
       .cover__card {
         padding: 107px 40px;
@@ -33,7 +39,7 @@
     bottom: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0,0,0,1);
+    background-color: #2A2C2F;
     opacity: 0.5;
     z-index: -1;
     transition: opacity 200ms ease-in-out;

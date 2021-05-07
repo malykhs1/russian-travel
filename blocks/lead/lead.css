@@ -1,10 +1,13 @@
 .lead {
   padding-top: 0;
   padding-bottom: 0;
+  margin-top: 56px;
 }
 
 @media screen and (max-width: 1023px){
     .lead {
       padding: 0;
+      margin-top: 48px;
+
     }
   }

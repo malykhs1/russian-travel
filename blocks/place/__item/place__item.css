@@ -19,6 +19,7 @@
   
   @media screen and (max-width: 1023px){
     .place__item {
+    grid-template-columns: minmax(200px, 1fr) minmax(352px, 1fr);
     margin-bottom: 73px;
     gap: 48px 28px;
 
