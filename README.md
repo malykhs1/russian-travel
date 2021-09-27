@@ -9,14 +9,14 @@
 Для работы с сайтом необходимо открыть файл index.html
 
 ⚙️ Стек технологий:
-HTML. Семантическая вёрстка.
-![Html](https://camo.githubusercontent.com/cfb88b6c03cc9581911995216c0f71d96598d6b64ac502ff52b421ae77f47730/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33362f3030303030302f68746d6c2d352d2d76312e706e67)
-CSS. Адаптивная вёрстка. Flex, grid, @media.
-![CSS](https://camo.githubusercontent.com/faaf44476fe47f6c8dd65eb9fbc22a0429f57458f1e8c524128e501b199dd480/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33362f3030303030302f637373332e706e67)
-BEM nested.
-![CSS](https://img.icons8.com/office/30/000000/plugin.png)
-Figma.
-![Figma](https://camo.githubusercontent.com/29028e8e1c5c18a0fe80dec89256dc577850dc0ed4bf8af565405d126cf4d68c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33322f3030303030302f6669676d612d2d76312e706e67)
+   HTML. Семантическая вёрстка.  
+   <img src="https://img.icons8.com/color/36/000000/html-5--v1.png"/>  
+   CSS. Адаптивная вёрстка. Flex, grid, @media.  
+   <img src="https://img.icons8.com/color/36/000000/css3.png"/>  
+   BEM nested.  
+   <img src="https://img.icons8.com/office/30/000000/plugin.png"/>  
+   Figma.  
+   <img src="https://img.icons8.com/color/32/000000/figma--v1.png"/> 
 
 ---
 ![Functional](https://img.icons8.com/ios-glyphs/25/000000/mechanistic-analysis.png) Функциональные возможности проекта:
